@@ -436,8 +436,8 @@ SUMMARY: AddressSanitizer: SEGV /home/xpdf/xpdf-4.04/xpdf/TextOutputDev.cc:988:1
 
 ### CVE-ID
 
-Not Yet
+CVE-2023-3044
 
-### Discover
+### Discoverer
 Junlin Liu of Peking Univ.
 
